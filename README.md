@@ -1,3 +1,4 @@
+以下readme来自原作者，该repo在此基础上新增了适于本项目yolov3的数据sample以及数据集生成和yolov5的数据集生成
 
 ## Brief Introduction
 Based on [DOTA_devkit](https://github.com/CAPTAIN-WHU/DOTA_devkit).  
